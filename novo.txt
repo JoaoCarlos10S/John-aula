@@ -1,3 +1,0 @@
-novo texto para adicionar em git, após Git.
-mais uma linha 
-mais outra linha
