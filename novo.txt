@@ -1,1 +1,1 @@
-novo texto para adicionar em git, após GitHub
+novo texto para adicionar em git, após Git.
