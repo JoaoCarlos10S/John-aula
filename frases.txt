@@ -1,0 +1,2 @@
+Primeira frase
+Essa é uma nova frase mais longa para praticar o uso do Git na vida mais real.
